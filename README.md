@@ -15,6 +15,7 @@ This project presents two Power BI dashboards developed during my internship at 
 4. To provide location-wise analysis of active and separated employees, helping identify regions or offices with higher case volumes.
 ## Key Insights for Objective 1:
 ➤ Total of 31 UAN for Active employees
+
 ➤ Total of 27 designation are for Active Employees
 ➤ Nodal Officer status reveals cases requiring follow-up as 41.94% claim are not initiated
 ➤ DOE-wise distribution highlights upcoming employee exits/retirement cases, supporting advance planning and timely processing.
