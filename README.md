@@ -38,6 +38,11 @@ This project presents two Power BI dashboards developed during my internship at 
 
 ➤ 44 out of 60 cases (73.33%) are concentrated in claim initiation/employee contact, data or technical issues, and claims pending with EPFO/processing authorities.
 
+# Here is the snapshot of the Dashboard for Module 1:
+![dashboard](https://github.com/arushiballav24036/Current-Status-Pension-Scheme-for-Employees-and-SABF-Rehabilitation-Scheme-IOCL-Internship/blob/bd3b441dc3561284de5d46ba69dfa02e6317b278/pic1.jpg)
+
+![dashboard](https://github.com/arushiballav24036/Current-Status-Pension-Scheme-for-Employees-and-SABF-Rehabilitation-Scheme-IOCL-Internship/blob/bd3b441dc3561284de5d46ba69dfa02e6317b278/pic2.jpg)
+
 # Module 2: ERO details of Pending Death Cases
 ## Objectives
 1. To provide a consolidated view of pending cases and their current processing status.
@@ -64,7 +69,11 @@ This project presents two Power BI dashboards developed during my internship at 
 
 ➤ Employment Given is the largest status category with 17 cases, followed by R-2A with 15 cases and Extension with 12 cases.
 
+# Here is the snapshot of the Dashboard for Module 2:
 
+![dashboard](https://github.com/arushiballav24036/Current-Status-Pension-Scheme-for-Employees-and-SABF-Rehabilitation-Scheme-IOCL-Internship/blob/bd3b441dc3561284de5d46ba69dfa02e6317b278/pic3.jpg)
+
+![dashboard](https://github.com/arushiballav24036/Current-Status-Pension-Scheme-for-Employees-and-SABF-Rehabilitation-Scheme-IOCL-Internship/blob/bd3b441dc3561284de5d46ba69dfa02e6317b278/pic4.jpg)
 
 
 
