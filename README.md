@@ -13,19 +13,36 @@ This project presents two Power BI dashboards developed during my internship at 
 2. To help HR teams identify cases requiring attention by analyzing nodal officer status, current status and other case-related categories.
 3. To analyze separated employees and their current status, separation reasons and related pension/EPS information.
 4. To provide location-wise analysis of active and separated employees, helping identify regions or offices with higher case volumes.
-## Key Insights for Objective 1:
+## Key Insights for Module 1:
 ➤ Total of 31 UAN for Active employees
 
 ➤ Total of 27 designation are for Active Employees
+
 ➤ Nodal Officer status reveals cases requiring follow-up as 41.94% claim are not initiated
+
 ➤ DOE-wise distribution highlights upcoming employee exits/retirement cases, supporting advance planning and timely processing.
+
 ➤ Uneven distribution of active cases across ESG categories, indicating varying case volumes among employee groups.
+
 ➤ For Separated employees around 42 is the count of designation
+
 ➤ 60 are the total count of UAN
+
 ➤ 55 are the New EPS generated
-➤ Around 59 cases are pending 
+
+➤ 59 out of 60 cases (98.33%) are currently marked as Pending, while only 1 case (1.67%) is classified as a Future Case.
+
 ➤ Superannuation dominates employee separations with 38 cases (63.33%), followed by Death with 20 cases (33.33%), while Medical Reason and Resignation account for    only 1 case (1.67%) each.
+
 ➤ AC is the largest ESG category with 22 cases (36.67%), representing more than one-third of the total cases.
+
+➤ 44 out of 60 cases (73.33%) are concentrated in claim initiation/employee contact, data or technical issues, and claims pending with EPFO/processing authorities.
+
+# Module 2: ERO details of Pending Death Cases
+## Objectives
+
+## Key Insights for Module 2:
+
 
 
 
