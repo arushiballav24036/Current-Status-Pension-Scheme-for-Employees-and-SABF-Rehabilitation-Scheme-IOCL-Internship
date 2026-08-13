@@ -38,7 +38,7 @@ This project presents two Power BI dashboards developed during my internship at 
 
 ➤ 44 out of 60 cases (73.33%) are concentrated in claim initiation/employee contact, data or technical issues, and claims pending with EPFO/processing authorities.
 
-# Here is the snapshot of the Dashboard for Module 1:
+## Here is the snapshot of the Dashboard for Module 1:
 ![dashboard](https://github.com/arushiballav24036/Current-Status-Pension-Scheme-for-Employees-and-SABF-Rehabilitation-Scheme-IOCL-Internship/blob/bd3b441dc3561284de5d46ba69dfa02e6317b278/pic1.jpg)
 
 ![dashboard](https://github.com/arushiballav24036/Current-Status-Pension-Scheme-for-Employees-and-SABF-Rehabilitation-Scheme-IOCL-Internship/blob/bd3b441dc3561284de5d46ba69dfa02e6317b278/pic2.jpg)
@@ -69,11 +69,12 @@ This project presents two Power BI dashboards developed during my internship at 
 
 ➤ Employment Given is the largest status category with 17 cases, followed by R-2A with 15 cases and Extension with 12 cases.
 
-# Here is the snapshot of the Dashboard for Module 2:
+## Here is the snapshot of the Dashboard for Module 2:
 
 ![dashboard](https://github.com/arushiballav24036/Current-Status-Pension-Scheme-for-Employees-and-SABF-Rehabilitation-Scheme-IOCL-Internship/blob/bd3b441dc3561284de5d46ba69dfa02e6317b278/pic3.jpg)
 
 ![dashboard](https://github.com/arushiballav24036/Current-Status-Pension-Scheme-for-Employees-and-SABF-Rehabilitation-Scheme-IOCL-Internship/blob/bd3b441dc3561284de5d46ba69dfa02e6317b278/pic4.jpg)
 
-
+# Conclusion
+The Power BI solution provides an integrated view of active, separated and pending employee cases under pension, settlement and rehabilitation-related processes. The dashboards identify major separation patterns, pending workloads, long-aged cases and settlement gaps, enabling HR stakeholders to prioritize critical cases and monitor progress more effectively. The insights support data-driven decision-making, improved case tracking and timely resolution of pension and employee-related cases.
 
