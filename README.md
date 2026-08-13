@@ -8,7 +8,7 @@ This project presents two Power BI dashboards developed during my internship at 
 - MS Excel
 - Power BI
 # Module 1: Pension Scheme for Active and Retired Employees
-## Objective
+## Objectives
 1. To provide a current view of employees under active cases and monitor their status across different locations, designations and employee categories.
 2. To help HR teams identify cases requiring attention by analyzing nodal officer status, current status and other case-related categories.
 3. To analyze separated employees and their current status, separation reasons and related pension/EPS information.
@@ -40,8 +40,30 @@ This project presents two Power BI dashboards developed during my internship at 
 
 # Module 2: ERO details of Pending Death Cases
 ## Objectives
+1. To provide a consolidated view of pending cases and their current processing status.
+2. To identify cases awaiting Succession Certificates and highlight them for further action.
+3. To analyze cases using relevant dates such as Date of Death and the options exercised such as Sub-judice, R-3, R-1 and R-2A.
+4. To classify pending cases into 0–5 years, 6–10 years and more than 10 years to identify long-pending cases.
 
 ## Key Insights for Module 2:
+➤ 73 pending death cases are distributed across 51 locations, indicating a geographically dispersed case workload.
+
+➤ 34 of 73 cases have completed Final Settlement, indicating that more than half of the cases remain without completed settlement.
+
+➤ 4 cases are associated with Succession Certificate requirements
+
+➤ Staff cases dominate the pending death-case portfolio with 55 cases (75.34%), while Officer cases account for 18 cases (24.66%).
+
+➤ 61 cases (83.56%) have no extension, while 12 cases (16.44%) are under Extension status.
+
+➤ 54 cases have been pending for 0–5 years, representing nearly three-fourths of the total pending cases.
+
+➤ 10 cases have remained pending for 6–10 years, indicating a significant medium-term backlog.
+
+➤ 9 cases have been pending for more than 10 years, highlighting a critical long-pending caseload.
+
+➤ Employment Given is the largest status category with 17 cases, followed by R-2A with 15 cases and Extension with 12 cases.
+
 
 
 
